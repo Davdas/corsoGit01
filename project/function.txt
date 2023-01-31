@@ -1,3 +1,11 @@
-operazione
+operazione moltiplicazione
+
+n1 * n2
+
+operazione addizione 
 
 n1 + n2
+
+operazione divisione
+
+n1 / n2
